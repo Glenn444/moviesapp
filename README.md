@@ -1,6 +1,6 @@
 # Welcome to the MOVIES APP 👋
 ## The project involves:
-- Using [`Tanstack Query`] to query the movies api
+- Using [`Tanstack Query`] to query the [movies api](themoviedb.org)
 - Learning about state management 
 - Learing to use [`zustand`]
 
